@@ -5,4 +5,3 @@ MinutemanEsports is a website built by and for competitive gamers at UMass Amher
 - Max Loper
 - Michael Sammut
 - Ethan Narkiewicz
-
